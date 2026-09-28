@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fapp\u002Fpreview\u002F[[...section]]","\u002Fapp\u002Fworkspace-preview\u002F[workspace]","\u002Fblog\u002F[...slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

@@ -1,0 +1,4 @@
+:HL["/hg-website-preview/_next/static/chunks/40tyyqhcq-t2-.css","style"]
+:HL["/hg-website-preview/_next/static/chunks/0fu3d15rubr6x.css","style"]
+:HL["/hg-website-preview/media/live/Blog-20Post-20-27Masters-20of-20Habit.-20The-20Teachers-20of-20How-20to-20Change-20Ourselves.-27-20cover-20image.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"self-discipline-habit-building-8/masters-of-habit-the-teachers-of-how-to-change-ourselves-145","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3H_meIJmWWj1mxoJx4oei"}

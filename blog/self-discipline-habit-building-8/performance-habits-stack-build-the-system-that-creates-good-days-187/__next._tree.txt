@@ -1,0 +1,4 @@
+:HL["/hg-website-preview/_next/static/chunks/40tyyqhcq-t2-.css","style"]
+:HL["/hg-website-preview/_next/static/chunks/0fu3d15rubr6x.css","style"]
+:HL["/hg-website-preview/media/live/Blog-20Post-20-27Performance-20Habits-20Stack-3A-20Build-20the-20System-20That-20Creates-20Good-20Days-27-20cover-20image.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"self-discipline-habit-building-8/performance-habits-stack-build-the-system-that-creates-good-days-187","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3H_meIJmWWj1mxoJx4oei"}

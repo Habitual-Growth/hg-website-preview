@@ -1,0 +1,4 @@
+:HL["/hg-website-preview/_next/static/chunks/40tyyqhcq-t2-.css","style"]
+:HL["/hg-website-preview/_next/static/chunks/0fu3d15rubr6x.css","style"]
+:HL["/hg-website-preview/media/live/Blog-20Post-20-27Stop-20Treating-20Wins-20as-20One-Off-20Events.-20Start-20Using-20Them-20as-20Permanent-20Proof.-27-20cover-20image.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"mental-resilience-focus-10/stop-treating-wins-as-one-off-events-start-using-them-as-permanent-proof-198","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3H_meIJmWWj1mxoJx4oei"}

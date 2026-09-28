@@ -1,0 +1,4 @@
+:HL["/hg-website-preview/_next/static/chunks/40tyyqhcq-t2-.css","style"]
+:HL["/hg-website-preview/_next/static/chunks/0fu3d15rubr6x.css","style"]
+:HL["/hg-website-preview/media/live/Blog-20Post-20-27Systems-20Beat-20Willpower-3A-20Stop-20Waiting-20to-20Feel-20Motivated-27-20cover-20image.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"purpose-legacy-impact-11/systems-beat-willpower-stop-waiting-to-feel-motivated-185","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3H_meIJmWWj1mxoJx4oei"}
