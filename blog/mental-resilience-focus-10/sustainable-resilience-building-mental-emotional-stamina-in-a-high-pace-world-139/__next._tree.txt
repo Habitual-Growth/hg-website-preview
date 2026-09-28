@@ -1,4 +1,4 @@
 :HL["/hg-website-preview/_next/static/chunks/40tyyqhcq-t2-.css","style"]
-:HL["/hg-website-preview/_next/static/chunks/0fu3d15rubr6x.css","style"]
+:HL["/hg-website-preview/_next/static/chunks/36jylj1frylch.css","style"]
 :HL["/hg-website-preview/media/live/Blog-20Post-20-27Sustainable-20Resilience-3A-20Building-20Mental-20-26-20Emotional-20Stamina-20in-20a-20High-Pace-20World-27-20cover-20image.webp","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"mental-resilience-focus-10/sustainable-resilience-building-mental-emotional-stamina-in-a-high-pace-world-139","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3H_meIJmWWj1mxoJx4oei"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"blog","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"mental-resilience-focus-10/sustainable-resilience-building-mental-emotional-stamina-in-a-high-pace-world-139","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"1r-rYR3gpphgxCzSEpojq"}
